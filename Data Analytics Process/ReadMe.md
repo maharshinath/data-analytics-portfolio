@@ -13,4 +13,6 @@ Example: Predictive Maintenance for a Manufacturing Company
 5. Share: The company shares the results of the analysis with relevant stakeholders, including maintenance technicians and production managers. The predictive models are integrated into the company's maintenance management system.
 
 6. Act: The company uses the predictive models to schedule proactive maintenance activities, reducing the likelihood of unplanned downtime and improving equipment performance. The company continually monitors the results of the predictive maintenance program and adjusts the models as needed to ensure that they continue to provide accurate predictions.
+
+
 This example shows how the data analytics process can be applied to real-life business problems and how it can help organizations make data-driven decisions
